@@ -40,7 +40,7 @@ public class TestBase {
 		
 			} else if (myBrowser.equalsIgnoreCase("chrome")) {
 				// https://chromedriver.storage.googleapis.com/index.html
-				System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "/drivers/chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "/executables/chromedriver.exe");
 				driver = new ChromeDriver();
 				log.info("=============Application Starts==========");
 				
