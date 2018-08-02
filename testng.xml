@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="3" preserve-order="true">
+   <listeners>
+      <listener class-name="utilities.ExtentReporterNG"></listener>
+      <listener class-name="utilities.TestListenerClass"></listener>
+   </listeners>
+ <test name="login test in Chrome">
+		<parameter name="myBrowser" value="chrome" />
+		<classes>
+			<class name="com.CiviCrm.Practice.Login" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Cretae a new mail">
+		<parameter name="myBrowser" value="chrome" />
+		<classes>
+			<class name="com.CiviCrm.Practice.NewMailling" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Create a new student contact">
+		<parameter name="myBrowser" value="chrome" />
+		<classes>
+			<class name="com.CiviCrm.Practice.NewStudentContact" />
+		</classes>
+	</test> <!-- Test -->
+
+	
+</suite> <!-- Suite -->

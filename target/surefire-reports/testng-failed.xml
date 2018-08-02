@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="utilities.ExtentReporterNG"/>
+    <listener class-name="utilities.TestListenerClass"/>
+  </listeners>
+  <test thread-count="2" verbose="0" name="login test in Chrome(failed)" parallel="tests">
+    <parameter name="myBrowser" value="chrome"/>
+    <classes>
+      <class name="com.CiviCrm.Practice.Login">
+        <methods>
+          <include name="getBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+          <include name="loggingIn"/>
+        </methods>
+      </class> <!-- com.CiviCrm.Practice.Login -->
+    </classes>
+  </test> <!-- login test in Chrome(failed) -->
+  <test thread-count="2" verbose="0" name="New mailling test in chrome(failed)" parallel="tests">
+    <parameter name="myBrowser" value="chrome"/>
+    <classes>
+      <class name="com.CiviCrm.Practice.NewMailling">
+        <methods>
+          <include name="getBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="login"/>
+          <include name="createMail"/>
+          <include name="initialze"/>
+        </methods>
+      </class> <!-- com.CiviCrm.Practice.NewMailling -->
+    </classes>
+  </test> <!-- New mailling test in chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

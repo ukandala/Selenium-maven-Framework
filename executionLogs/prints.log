@@ -1,0 +1,75 @@
+21:27:31.653 [TestNG-tests-2] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+21:27:31.653 [TestNG-tests-1] INFO  utilities.TestBase - =============Session Ends==========
+21:27:31.662 [TestNG-tests-1] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+21:27:31.722 [TestNG-tests-2] INFO  utilities.TestBase - =============Session Starts==========
+21:27:31.722 [TestNG-tests-2] INFO  utilities.TestBase - Mac OS X
+21:27:31.723 [TestNG-tests-2] INFO  utilities.TestBase - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+21:27:32.594 [TestNG-tests-2] INFO  utilities.TestBase - =============Application Starts==========
+21:27:35.367 [TestNG-tests-2] INFO  utilities.TestBase - =============Session Starts==========
+21:27:35.367 [TestNG-tests-2] INFO  utilities.TestBase - Mac OS X
+21:28:04.973 [TestNG-tests-2] INFO  utilities.TestBase - =============Session Ends==========
+21:28:04.973 [TestNG-tests-2] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+11:45:28.937 [main] INFO  utilities.TestBase - =============Session Starts==========
+11:45:28.942 [main] INFO  utilities.TestBase - Mac OS X
+11:45:28.942 [main] INFO  utilities.TestBase - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+11:45:31.064 [main] INFO  utilities.TestBase - =============Application Starts==========
+11:45:36.118 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+11:45:36.118 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - Mac OS X
+11:45:48.523 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Ends==========
+11:45:48.523 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+11:45:48.560 [main] INFO  utilities.TestBase - =============Session Starts==========
+11:45:48.560 [main] INFO  utilities.TestBase - Mac OS X
+11:45:48.779 [main] INFO  utilities.TestBase - =============Session Starts==========
+11:45:48.779 [main] INFO  utilities.TestBase - Mac OS X
+11:45:48.779 [main] INFO  utilities.TestBase - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+11:45:49.553 [main] INFO  utilities.TestBase - =============Application Starts==========
+11:45:52.198 [TestNG-test=New student contact test in chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+11:45:52.198 [TestNG-test=New student contact test in chrome-1] INFO  utilities.TestBase - Mac OS X
+11:46:21.208 [TestNG-test=New student contact test in chrome-2] INFO  utilities.TestBase - =============Session Ends==========
+11:46:21.208 [TestNG-test=New student contact test in chrome-2] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+12:02:24.803 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:02:24.807 [main] INFO  utilities.TestBase - Mac OS X
+12:02:24.807 [main] INFO  utilities.TestBase - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+12:02:26.489 [main] INFO  utilities.TestBase - =============Application Starts==========
+12:02:29.015 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+12:02:29.016 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - Mac OS X
+12:02:38.847 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Ends==========
+12:02:38.848 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+12:02:38.874 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:02:38.874 [main] INFO  utilities.TestBase - Mac OS X
+12:02:38.875 [main] INFO  utilities.TestBase - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+12:02:39.637 [main] INFO  utilities.TestBase - =============Application Starts==========
+12:02:42.360 [TestNG-test=New mailling test in chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+12:02:42.362 [TestNG-test=New mailling test in chrome-1] INFO  utilities.TestBase - Mac OS X
+12:03:20.604 [TestNG-test=New mailling test in chrome-2] INFO  utilities.TestBase - =============Session Ends==========
+12:03:20.605 [TestNG-test=New mailling test in chrome-2] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+12:03:20.622 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:03:20.623 [main] INFO  utilities.TestBase - Mac OS X
+12:03:20.623 [main] INFO  utilities.TestBase - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+12:03:21.473 [main] INFO  utilities.TestBase - =============Application Starts==========
+12:03:24.110 [TestNG-test=New student contact test in chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+12:03:24.110 [TestNG-test=New student contact test in chrome-1] INFO  utilities.TestBase - Mac OS X
+12:03:49.604 [TestNG-test=New student contact test in chrome-2] INFO  utilities.TestBase - =============Session Ends==========
+12:03:49.604 [TestNG-test=New student contact test in chrome-2] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+12:42:13.842 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:42:13.846 [main] INFO  utilities.TestBase - Mac OS X
+12:42:13.853 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+12:42:13.853 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - Mac OS X
+12:42:14.639 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============No WebDriver Session Found==========
+12:43:37.889 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:43:37.905 [main] INFO  utilities.TestBase - Mac OS X
+12:45:09.570 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:45:09.572 [main] INFO  utilities.TestBase - Mac OS X
+12:46:28.160 [main] INFO  utilities.TestBase - =============Session Starts==========
+12:46:28.163 [main] INFO  utilities.TestBase - Mac OS X
+12:46:29.770 [main] INFO  utilities.TestBase - =============Application Starts==========
+21:55:13.791 [main] INFO  utilities.TestBase - =============Session Starts==========
+21:55:13.797 [main] INFO  utilities.TestBase - Mac OS X
+21:55:17.194 [main] INFO  utilities.TestBase - =============Application Starts==========
+21:58:34.644 [main] INFO  utilities.TestBase - =============Session Starts==========
+21:58:34.647 [main] INFO  utilities.TestBase - Mac OS X
+21:58:36.238 [main] INFO  utilities.TestBase - =============Application Starts==========
+21:58:39.407 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Starts==========
+21:58:39.408 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - Mac OS X
+21:58:41.040 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============Session Ends==========
+21:58:41.040 [TestNG-test=login test in Chrome-1] INFO  utilities.TestBase - =============No WebDriver Session Found==========
